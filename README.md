@@ -9,7 +9,7 @@
 - 📫 How to reach me **elifranatekin2002@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> https://medium.com/@elifranatekin2002/centralized-learning-vs-federated-learning-39f4c24cda9d
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
