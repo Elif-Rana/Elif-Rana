@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif Rana Tekin</h1>
 <h3 align="center">A Artificial Intelligence Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elif-rana&label=Profile%20views&color=0e75b6&style=flat" alt="elif-rana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/im_mrna" target="blank"><img src="https://img.shields.io/twitter/follow/im_mrna?logo=twitter&style=for-the-badge" alt="im_mrna" /></a> </p>
 
 - 🌱 I’m currently focused on studying **Deep Learning, Natural Language Processing and Data Mining**
 
