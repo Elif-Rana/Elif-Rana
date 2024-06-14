@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif Rana Tekin</h1>
-<h3 align="center">A Artificial Intelligence Engineer</h3>
+<h3 align="center">An Eager to Learn Artificial Intelligence Engineer</h3>
 
 
 - 🌱 I’m currently focused on studying **Deep Learning, Natural Language Processing and Data Mining**
