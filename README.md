@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> </p> 
 <a href="mailto:elifranatekin2002@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
-<a href="https://twitter.com/im_mrna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrna" height="30" width="40" /></a>
+<a href="https://twitter.com/im_mRNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrna" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elif-rana-tekin-61950529b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif rana tekin" height="30" width="40" /></a>
 <a href="https://kaggle.com/elifranatekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elifranatekin" height="30" width="40" /></a>
 <a href="https://medium.com/@elifranatekin2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elif rana tekin" height="30" width="40" /></a>
