@@ -18,7 +18,7 @@
 <a href="https://twitter.com/im_mrna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_mrna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elif rana tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif rana tekin" height="30" width="40" /></a>
 <a href="https://kaggle.com/elifranatekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elifranatekin" height="30" width="40" /></a>
-<a href="https://medium.com/@elif rana tekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elif rana tekin" height="30" width="40" /></a>
+<a href="https://medium.com/@elifranatekin2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elif rana tekin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
