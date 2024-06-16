@@ -6,7 +6,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@elifranatekin2002)
 
-- 📫 Reach me by [Mail](mailto:elifranatekin2002@gmail.com), [LinkedIn](https://www.linkedin.com/in/elif-rana-tekin-61950529b/), [Medium](https://medium.com/@elifranatekin2002), [X](https://twitter.com/im_mRNA)
+- 📫 Reach me by [e-mail](mailto:elifranatekin2002@gmail.com), [LinkedIn](https://www.linkedin.com/in/elif-rana-tekin-61950529b/), [Medium](https://medium.com/@elifranatekin2002), [X](https://twitter.com/im_mRNA)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --> https://medium.com/@elifranatekin2002/centralized-learning-vs-federated-learning-39f4c24cda9d
