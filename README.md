@@ -6,7 +6,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@elifranatekin2002)
 
-- 📫 How to reach me **elifranatekin2002@gmail.com**
+- 📫 How to reach me by by [Mail](mailto:elifranatekin2002@gmail.com),
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --> https://medium.com/@elifranatekin2002/centralized-learning-vs-federated-learning-39f4c24cda9d
