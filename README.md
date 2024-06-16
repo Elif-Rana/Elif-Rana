@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently focused on studying **Deep Learning, Natural Language Processing and Data Mining**
 
-- 📝 I sometimes write articles on [https://medium.com/@elifranatekin2002](https://medium.com/@elifranatekin2002)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@elifranatekin2002)
 
 - 📫 How to reach me **elifranatekin2002@gmail.com**
 
